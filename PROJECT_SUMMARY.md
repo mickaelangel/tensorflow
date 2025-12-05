@@ -153,7 +153,7 @@ MIT License - Libre d'utilisation, modification et distribution
 **Mickael Angel**
 - GitHub : [@mickaelangel](https://github.com/mickaelangel)
 - Projet : TensorFlow Offline Installation Package
-- Email : mickael.angel@example.com
+- Email : mickaelangelcv@gmail.com
 
 ## 🤝 Contribution
 
